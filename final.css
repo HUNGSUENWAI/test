@@ -1,0 +1,61 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body{
+	background-color: #0C0C0C;
+}
+
+#wrapper{
+	width:100%;
+	position: relative;
+	margin: auto;
+}
+
+#header{
+	width:100%;
+	height:298px;
+	background-image:url("images/Case_1_JPG_02.jpg");
+    background-position: center;
+    background-size: 95%;
+	background-repeat: no-repeat
+}
+
+#nav1{
+	width:100%;
+	height:20px;
+	background-image:url("images/Case_1_JPG_09.jpg");
+	background-position: center;
+    background-size: 120%;
+	background-repeat: no-repeat
+}
+#nav2{
+	width:100%;
+	height:493px;
+	background-image:url("images/Case_1_JPG_11.jpg");
+	background-position: center;
+    background-size: 100%;
+	background-repeat: no-repeat
+}
+
+#content{
+	width:100%;
+	height:140px;
+	position: relative;
+	text-align: center;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+
+#blog{
+	width: 100%;
+	height: 950px;
+	position: relative;
+	background-size: cover;
+	background-position: center;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+
+#footer{
+	width:100%;
+	height:80px;
+	position: relative;
+}
